@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am Pavlo Pylypchik, a software engineer with C++, C#, Python, Web Development and AI agent development.
+Here are my skill sets.
+- Python, C++, C#
+- LangChain, LangGraph, LangSmith, LangFuse, LangFlow
+- React, Vue, Next
+
+Contact me if you want to discuss something with me.
+email: pavlopylypchik91@outlook.com
+
+Thanks
 <!--
 **unelaral-cmd/unelaral-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
