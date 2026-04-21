@@ -7,6 +7,7 @@ Here are my skill sets.
 - React, Vue, Next
 
 Contact me if you want to discuss something with me.
+
 email: pavlopylypchik91@outlook.com
 
 Thanks
